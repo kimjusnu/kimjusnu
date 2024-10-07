@@ -34,16 +34,16 @@ In the future, I want to become a developer who excels at communication and thri
 
 
 ## 🚀 Projects
+### Componique
+UI component library created using NextJs React, Tailwind CSS, and TypeScript to offer a range of reusable components for frontend development. [GitHub](https://github.com/Poten14/Componique)
+
+
 ### 4094Fixer
-A Node.js package that automatically detects and fixes the 4094 error in Next.js projects. [GitHub](https://github.com/kimjusnu/4094Fixer)
+Node.js package that automatically detects and fixes the 4094 error in Next.js projects. [GitHub](https://github.com/kimjusnu/4094Fixer)
 
 
 ### Email Template Web App
-A web application that allows students to send templated emails to professors directly by selecting their department. [GitHub](https://github.com/kimjusnu/email-template-app)
-
-
-### Componique
-A UI component library created using React, Tailwind CSS, and TypeScript to offer a range of reusable components for frontend development. [GitHub](https://github.com/Poten14/Componique)
+Web application that allows students to send templated emails to professors directly by selecting their department. [GitHub](https://github.com/kimjusnu/email-template-app)
 
 
 ## 🌱 Currently Learning
