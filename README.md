@@ -1,5 +1,7 @@
-# 👋 Hi, I'm Junsu Kim (김준수)
-I'm a passionate frontend developer who thrives on bringing ideas to life through code. Whether it's solving complex problems or crafting beautiful user interfaces, I'm always up for the challenge. For me, coding is not just a job—it's a way to create meaningful and lasting experiences.
+# 👋 Hi, I'm Junsu Kim.
+I'm a university student aiming to become a frontend developer. I’m not your typical developer who sticks to just one thing—I love diving into whatever excites me, learning new technologies, and creating something fun and useful from scratch. Creativity and passion drive me, and I’m constantly experimenting and pushing myself to grow.
+
+In the future, I want to become a developer who excels at communication and thrives in collaborative environments, bringing value to every project I work on.
 
 ## 🛠 Tech Stack
 
@@ -37,6 +39,9 @@ A Node.js package that automatically detects and fixes the 4094 error in Next.js
 ### Email Template Web App
 A web application that allows students to send templated emails to professors directly by selecting their department. [GitHub](https://github.com/kimjusnu/email-template-app)
 
+### Componique
+A UI component library created using React, Tailwind CSS, and TypeScript to offer a range of reusable components for frontend development. [GitHub](https://github.com/Poten14/Componique)
+
 ## 🌱 Currently Learning
 - GraphQL
 - Web3.js
@@ -50,9 +55,3 @@ A web application that allows students to send templated emails to professors di
 ![Junsu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimjusnu&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjusnu&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kimjusnu&theme=radical)
-
-## 🧰 Version Control
-I use Git and GitHub for version control, ensuring code is always in a stable state while collaborating efficiently with other developers.
-
-## 💡 Favorite Quote
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
