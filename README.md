@@ -32,24 +32,30 @@ In the future, I want to become a developer who excels at communication and thri
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+
 ## 🚀 Projects
 ### 4094Fixer
 A Node.js package that automatically detects and fixes the 4094 error in Next.js projects. [GitHub](https://github.com/kimjusnu/4094Fixer)
 
+
 ### Email Template Web App
 A web application that allows students to send templated emails to professors directly by selecting their department. [GitHub](https://github.com/kimjusnu/email-template-app)
 
+
 ### Componique
 A UI component library created using React, Tailwind CSS, and TypeScript to offer a range of reusable components for frontend development. [GitHub](https://github.com/Poten14/Componique)
+
 
 ## 🌱 Currently Learning
 - GraphQL
 - Web3.js
 - Jest for React testing
 
+
 ## ✍ Blog & Socials
 - [Tistory Blog](https://dietisdie.tistory.com) 
 - [LinkedIn](https://www.linkedin.com/in/kimjusnu)
+
 
 ## 📊 GitHub Stats
 ![Junsu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimjusnu&show_icons=true&theme=radical)
