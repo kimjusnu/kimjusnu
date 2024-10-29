@@ -13,12 +13,6 @@
 
 ---
 
-## 📧 연락하기  
-- **[Tistory 블로그](https://dietisdie.tistory.com)**  
-- **junsu4621@naver.com**
-
----
-
 ## 🛠 Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,3 +44,10 @@
 
 ## 🌍 방문자 수  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kimjusnu)  
+
+---
+
+## 📧 연락하기  
+- **[Tistory 블로그](https://dietisdie.tistory.com)**  
+- **junsu4621@naver.com**
+
