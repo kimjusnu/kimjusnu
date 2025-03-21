@@ -55,7 +55,6 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/kimjusnu?style=social)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kimjusnu) 
 ---
-📧 연락주세요  
 - **[Tistory 블로그](https://dietisdie.tistory.com)**  
 - **junsu4621@naver.com**
 
