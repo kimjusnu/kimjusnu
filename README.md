@@ -1,14 +1,13 @@
-# 👋 안녕하세요, 프론트엔드 개발자 김준수입니다!
+# 김준수 - 프론트엔드 개발자
 
-저는 좋은 개발자란 **협력과 소통이 뛰어난 사람**이라고 생각합니다.  
+> 매일 에러와 씨름하다가 가끔 코드가 돌아가면 기뻐하는 평범한 개발자
 
-개발자는 여러 부서와 소통하며 일해야 하기 때문에 **기획, 디자인, 고객** 등 다양한 이해관계자들과 협업할 수 있어야 한다고 생각합니다. 그래서 팀 프로젝트에서는 **모난 부분 없이 부드럽게 어우러지는 개발자**가 되려고 노력하고 있습니다.
-
-문제가 발생하면 **호기심을 가지고 탐구**하며, 다양한 관점에서 해결책을 찾아내는 것을 중요하게 생각합니다. 새로운 도전을 두려워하지 않고, 해결 방법을 직접 **구현하고 실험**해보는 것을 즐깁니다.
-
-또한 저는 **창의성과 상상력**이 풍부한 편입니다. 머릿속에 떠오른 아이디어를 그냥 두지 않고 바로 **구현하고 배포하여** 실제 사용자 피드백까지 얻어보며 경험을 쌓아가고 있습니다.  
-
-이런 과정을 통해 더 나은 개발자로 성장하는 것이 제 목표입니다.😊
+## 현실의 나
+- 완벽주의 때문에 PR 올리기 전에 10번 확인하는 습관 있음
+- "이건 금방 끝나겠다" 했다가 3시간 붙잡고 있는 경우 많음
+- 스택오버플로우와 구글은 내 진짜 스승님
+- 간단한 기능 구현했을 때 혼자서 미소짓는 사람
+- 작업하다 막히면 산책하러 나가는 편
 
 
 ---
@@ -45,9 +44,23 @@
 
 ---
 
-## 📊 GitHub 통계  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimjusnu&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjusnu&layout=compact&theme=radical)  
+## 📊 GitHub 활동 통계
+
+### 💻 코드 활동
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimjusnu&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjusnu&layout=compact&theme=radical)
+
+### ⚡ 커밋 스트릭
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kimjusnu&theme=radical)
+
+### 📈 기여 그래프
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kimjusnu&theme=react-dark)
+
+### 🏆 트로피
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kimjusnu&theme=onedark&row=1)
+
+### 🕰️ 주간 코딩 시간
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kimjusnu&theme=radical)
 
 ---
 
