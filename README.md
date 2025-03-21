@@ -44,31 +44,17 @@
 
 ---
 
-## 📊 GitHub 활동 통계
-
-### 💻 코드 활동
+## GitHub 활동
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimjusnu&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjusnu&layout=compact&theme=radical)
-
-### ⚡ 커밋 스트릭
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kimjusnu&theme=radical)
-
-### 🏆 트로피
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kimjusnu&theme=onedark&row=1)
-
-### 🏷️ 프로필 배지
+---
 ![Profile Views](https://komarev.com/ghpvc/?username=kimjusnu&color=brightgreen)
 ![GitHub followers](https://img.shields.io/github/followers/kimjusnu?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/kimjusnu?style=social)
-
----
-
-## 🌍 방문자 수  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kimjusnu) 
-
----
-
-## 📧 연락하기  
+📧 연락주세요  
 - **[Tistory 블로그](https://dietisdie.tistory.com)**  
 - **junsu4621@naver.com**
 
