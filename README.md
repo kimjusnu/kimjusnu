@@ -1,8 +1,8 @@
 # 김준수 - 프론트엔드 개발자
 
-> 매일 에러와 씨름하다가 가끔 코드가 돌아가면 기뻐하는 평범한 개발자
+> 매일 에러와 씨름하다가 가끔 코드가 돌아가면 기뻐하는 평범한 개발자입니다.
 
-## 현실의 나
+## 안녕하세요.
 - 완벽주의 때문에 PR 올리기 전에 10번 확인하는 습관 있음
 - "이건 금방 끝나겠다" 했다가 3시간 붙잡고 있는 경우 많음
 - 스택오버플로우와 구글은 내 진짜 스승님
@@ -53,19 +53,18 @@
 ### ⚡ 커밋 스트릭
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kimjusnu&theme=radical)
 
-### 📈 기여 그래프
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kimjusnu&theme=react-dark)
-
 ### 🏆 트로피
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kimjusnu&theme=onedark&row=1)
 
-### 🕰️ 주간 코딩 시간
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kimjusnu&theme=radical)
+### 🏷️ 프로필 배지
+![Profile Views](https://komarev.com/ghpvc/?username=kimjusnu&color=brightgreen)
+![GitHub followers](https://img.shields.io/github/followers/kimjusnu?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/kimjusnu?style=social)
 
 ---
 
 ## 🌍 방문자 수  
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kimjusnu)  
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kimjusnu) 
 
 ---
 
