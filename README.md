@@ -1,9 +1,11 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f5ec9,100:1d6d96&height=120&text=Junsu.Kim&animation=fadeIn&fontColor=b4d5e9&fontSize=60" />
-    </div>
-    <div align= "center">
+</div>
+
+<div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
+    <div style="margin: 0 auto; text-align: center;" align= "center"> 
+          <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
@@ -26,19 +28,38 @@
           <br/><img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white">
           <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
           <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white">
-          </div>
     </div>
-    <div align= "center">
+</div>
+
+<div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://dietisdie.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://dietisdie.tistory.com/"> </a>
-         <a href=mailto:junsu4621@naver.cim> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:junsu4621@naver.cim"> </a>
-          </div>  <br> 
-    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimjusnu%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-       </div> 
-    </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=kimjusnu&bg_color=60,4a93f2,93e6cd&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimjusnu&layout=compact&bg_color=60,4a93f2,93e6cd&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
-    
+          <a href=https://dietisdie.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://dietisdie.tistory.com/"> </a>
+          <a href=mailto:junsu4621@naver.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:junsu4621@naver.com"> </a>
+    </div>  <br> 
+    <div align= "center"> 
+          <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimjusnu%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+    </div> 
+</div>
+
+<div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+    <div align= "center"> 
+          <img src="https://github-readme-stats.vercel.app/api?username=kimjusnu&bg_color=60,4a93f2,93e6cd&title_color=000000&text_color=000000" /> 
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimjusnu&layout=compact&bg_color=60,4a93f2,93e6cd&title_color=000000&text_color=000000" /> 
+    </div> 
+</div>
+
+<div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 Trophies </h2>
+    <div align= "center">
+          <img src="https://github-profile-trophy.vercel.app/?username=kimjusnu&row=1&column=7&bg_color=60,4a93f2,93e6cd&title_color=000000&text_color=000000&no-frame=true" />
+    </div> 
+</div>
+
+<div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📈 Contributions </h2>
+    <div align= "center">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimjusnu&background=60,4a93f2,93e6cd&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000" />
+    </div> 
+</div>
