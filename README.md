@@ -4,6 +4,5 @@
 
 
 
-<!-- 다크/라이트 모드별 스네이크: 사용자가 준 링크 그대로 -->
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<!-- 항상 라이트 모드 전용, 고급스러운 팔레트로 커스터마이징 -->
+![github contribution grid snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_ID/YOUR_GITHUB_ID/output/snake-gold.svg)
