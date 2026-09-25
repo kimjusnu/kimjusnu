@@ -273,6 +273,10 @@ function strataSvg(agg) {
 
 async function main() {
   const repos = await listRepos();
+  // STATS_TOKEN이 있는데 비공개 저장소가 안 보이면 권한 설정이 잘못된 것이다. 빈약한 차트로 덮어쓰지 않고 멈춘다
+  if (process.env.STATS_TOKEN && !repos.some((r) => r.isPrivate)) {
+    throw new Error("STATS_TOKEN이 비공개 저장소를 읽지 못합니다. 토큰의 Repository access(All repositories)와 Contents 권한을 확인하세요");
+  }
   const dates = [];
   for (const repo of repos) dates.push(...(await commitDates(repo)));
   const agg = aggregate(dates);
