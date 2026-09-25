@@ -1,0 +1,46 @@
+name: profile-charts
+
+on:
+  schedule:
+    - cron: "0 15 * * *" # 매일 00:00 (한국 시각)
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/**"
+      - ".github/workflows/profile-charts.yml"
+
+permissions:
+  contents: write
+
+concurrency: profile-charts
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+    steps:
+      # 토큰이 없으면 공개 저장소만 집계되어 차트가 비므로, 기존 차트를 그대로 둔다
+      - name: 토큰 확인
+        if: ${{ env.STATS_TOKEN == '' }}
+        run: echo "::notice::STATS_TOKEN이 없어 차트 갱신을 건너뜁니다"
+      - uses: actions/checkout@v4
+        if: ${{ env.STATS_TOKEN != '' }}
+      - uses: actions/setup-node@v4
+        if: ${{ env.STATS_TOKEN != '' }}
+        with:
+          node-version: "22"
+      - run: node scripts/build-charts.mjs
+        if: ${{ env.STATS_TOKEN != '' }}
+      - name: 바뀐 차트만 커밋
+        if: ${{ env.STATS_TOKEN != '' }}
+        run: |
+          if [ -n "$(git status --porcelain assets)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add assets
+            git commit -m "chore: 프로필 차트 갱신"
+            git push
+          else
+            echo "변경 없음"
+          fi
