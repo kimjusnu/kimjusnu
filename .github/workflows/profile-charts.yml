@@ -41,19 +41,13 @@ jobs:
         run: |
           pip install --quiet pillow
           python scripts/portrait.py kimjusnu
-      # 입체 기여 그래프 (MIT, yoshi389111/github-profile-3d-contrib)
-      - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
-        if: ${{ env.STATS_TOKEN != '' }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
-          USERNAME: kimjusnu
       - name: 바뀐 차트만 커밋
         if: ${{ env.STATS_TOKEN != '' }}
         run: |
-          if [ -n "$(git status --porcelain assets profile-3d-contrib)" ]; then
+          if [ -n "$(git status --porcelain assets)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add assets profile-3d-contrib
+            git add assets
             git commit -m "chore: 프로필 차트 갱신"
             git push
           else
